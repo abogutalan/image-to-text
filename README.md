@@ -11,9 +11,9 @@ https://www.geeksforgeeks.org/convert-text-speech-python/
 
 ###### Homebrew
 
-    * To install Tesseract with only English support:
+- To install Tesseract with only English support:
 brew install tesseract
-    * To install with all languages:
+- To install with all languages:
 brew install tesseract-lang
 - https://guides.library.illinois.edu/c.php?g=347520&p=4121425
 
