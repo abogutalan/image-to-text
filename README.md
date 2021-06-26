@@ -28,8 +28,11 @@ brew install mpg321
 pip install googletrans==3.1.0a0
 
 ```
+
 https://pypi.org/project/pytesseract/
+
 https://pypi.org/project/mpyg321/
+
 https://stackoverflow.com/questions/52455774/googletrans-stopped-working-with-error-nonetype-object-has-no-attribute-group
 
 ### Text To Speech(.mp3)
