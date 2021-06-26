@@ -12,10 +12,11 @@ https://www.geeksforgeeks.org/convert-text-speech-python/
 ###### Homebrew
 
 - To install Tesseract with only English support:
-brew install tesseract
+> brew install tesseract
 - To install with all languages:
-brew install tesseract-lang
-- https://guides.library.illinois.edu/c.php?g=347520&p=4121425
+> brew install tesseract-lang
+
+https://guides.library.illinois.edu/c.php?g=347520&p=4121425
 
 ### Convert Image to Text (convert_image.py)
 pip install pytesseract
