@@ -1,3 +1,9 @@
+# Overview
+### Building Custom Deep Learning Based OCR models
+> Optical character recognition or OCR refers to a set of computer vision problems that require us to convert images of digital or hand-written text images to machine readable text in a form your computer can process, store and edit as a text file or as a part of a data entry and manipulation software. 
+
+* In this program, I tried to simulate this process by extracting text from images in python programming language. Furthermore, the program reads aloud the digital text with Text-to-speech (TTS) technology.
+
 ### Original Image
 ![alt text](https://github.com/abogutalan/image-to-text/blob/master/steve.jpg?raw=true)
 ##### Image to text
