@@ -1,10 +1,25 @@
+### Original Image
+![alt text](https://github.com/abogutalan/image-to-text/blob/master/steve.jpg?raw=true)
+##### Image to text
+```
+If today were the last day of your life,
+would you want to do what you are about
+to do today?
 
+Steve Jobs
+1955 - 2011
+```
+##### Translated text
+```
+Bugün hayatının son günü olsaydı,
+hakkında olduğun şeyi yapmak ister misin
+bugün yapmak?
 
-##### Convert Image to text and speech
-https://www.geeksforgeeks.org/python-convert-image-to-text-and-then-to-speech/
-##### Convert Text to Speech in Python
-https://www.geeksforgeeks.org/convert-text-speech-python/
-
+Steve Jobs
+1955 - 2011
+```
+##### Audio File
+[Click me to listen the translated text that is created by the program!](/audio.mp3)
 
 
 # How to install libraries on Mac
@@ -34,6 +49,11 @@ https://pypi.org/project/pytesseract/
 https://pypi.org/project/mpyg321/
 
 https://stackoverflow.com/questions/52455774/googletrans-stopped-working-with-error-nonetype-object-has-no-attribute-group
+
+##### Convert Image to text and speech
+https://www.geeksforgeeks.org/python-convert-image-to-text-and-then-to-speech/
+##### Convert Text to Speech in Python
+https://www.geeksforgeeks.org/convert-text-speech-python/
 
 ### Text To Speech(.mp3)
 https://www.geeksforgeeks.org/convert-text-speech-python/
